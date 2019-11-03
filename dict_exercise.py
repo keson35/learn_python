@@ -8,7 +8,7 @@ print(fruit_dict)
 
 
 fruit_dict['4'] = 'grape'
-# 字典也可以对选取的[key]的方式修改key对应的value值，和列表相同
+# 字典也可以对选取[key]的方式修改key对应的value值，和列表相同
 # 字典的key必须互不相同，如果一个键出现两次，后一个出现的键值对会替换前一个
 print(fruit_dict)
 
